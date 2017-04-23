@@ -4,7 +4,7 @@ title:  "Welcome to PragCore mother of all prags!"
 date:   2017-04-22 18:20:35 -0600
 categories: Pragcore update
 ---
-Welcome to PragCore!
+***Welcome to PragCore!***
 
 h1. PragCore
 h2. Definition:
