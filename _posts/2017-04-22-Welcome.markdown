@@ -6,9 +6,14 @@ categories: Pragcore update
 ---
 ***Welcome to PragCore!***
 
-PragCore
+What is PragCore??
+==
+
+  PragCore
 =====
-Definition:
+
+    Definition:
 ====
-Mother of all prags.
+
+      Mother of all prags.
 =
