@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Welcome to PragCore mother of all prags!"
+date:   2017-04-22 18:20:35 -0600
+categories: Pragcore update
+---
+Welcome to PragCore-mother of all prags
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
