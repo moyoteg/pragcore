@@ -6,10 +6,10 @@ categories: Pragcore update
 ---
 Welcome to **PragBot**
 
-What is **PragBot**?
----
+# What is **PragBot**?
+
 The bot that will give you puns and pickup lines.
 ---
-```Privacy Policy```:
+### Privacy Policy:
 
 None of your information is ever used or saved for any purpose.
