@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to PragCore mother of all prags!"
+title:  "Welcome to PragBot for puns and pick-up lines!"
 date:  2017-06-07 06:48:18 -0600
 categories: Pragcore update
 ---
