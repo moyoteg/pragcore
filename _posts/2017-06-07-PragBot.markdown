@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Welcome to PragCore mother of all prags!"
+date:  2017-06-07 06:48:18 -0600
+categories: Pragcore update
+---
+Welcome to **PragBot**
+
+What is **PragBot**?
+---
+The bot that will give you puns and pickup lines.
+---
+**Privacy Policy**:
+
+None of your information is ever used or saved for any purpose.
