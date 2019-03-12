@@ -1,0 +1,2 @@
+# pragcore
+pragmatic core
