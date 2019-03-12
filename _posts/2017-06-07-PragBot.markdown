@@ -5,11 +5,10 @@ date:  2017-06-07 06:48:18 -0600
 categories: Pragcore update
 ---
 Welcome to **PragBot**
-
 # What is **PragBot**?
-
 The bot that will give you puns and pickup lines.
+Chat with the bot here: m.me/1343904655687888
 ---
 ### Privacy Policy:
-
 None of your information is ever used or saved for any purpose.
+look at the source code here: https://glitch.com/edit/#!/pragbot?path=README.md:1:0
